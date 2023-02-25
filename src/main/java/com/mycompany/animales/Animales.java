@@ -14,6 +14,7 @@ public class Animales {
 
     /*PUBLICAR EN GITHUB
     //https://javiergarciaescobedo.es/programacion-en-java/29-trucos/354-alojar-proyecto-netbeans-en-github#:~:text=En%20el%20proyecto%20de%20NetBeans,el%20men%C3%BA%20Team%20%3E%20Git).
+    //resolver prolema de acceso not autorized: https://github.com/githubschool/foundations-4-28-15/issues/11#issuecomment-915021762
     */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
